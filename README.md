@@ -17,11 +17,11 @@ Source baseline: KukinIvan/growlog, work/calendar-commercial-climate-arco-v1, a3
 Corrections: support correspondence and website hosting disclosures; named service recipients; conditional protected-purchase/App Attest data and retention disclosure; qualified data rights and withdrawal; renewal/payment terms; EULA relationship and mandatory consumer remedies. Existing technical descriptions and allowances retained. No application or server behavior changed.
 
 Unresolved before declaring release-ready:
-- Confirm operator's legal establishment and intended storefronts; determine applicable law, processing-specific legal bases, required public business/contact details and any representative obligations. Do not assume these from residence or language.
+- Owner confirmed individual Ivan Kukin, Thailand; Apple enrollment planned using Thai driving licence. Storefronts are undecided. Determine applicable law, processing-specific legal bases, required public business/contact details and any representative obligations. No tax-residence or banking conclusion follows from the identity document.
 - Establish and document lawful retention/erasure criteria and actual implementation for inactive usage, linked coordinates, registration/revocation records, correspondence and provider logs/backups. The current lack of automatic expiry is disclosed; disclosure alone does not make indefinite retention lawful.
 - Confirm provider agreements, transfer safeguards and actual locations/settings. A provider privacy-policy link alone is not proof of processor terms or lawful international transfers.
 - Confirm support mailbox operation and a workable verified access/erasure-request procedure. Do not request secret access tokens by email.
-- Wire public privacy and Pro terms links into the native About screen and confirm final purchase-screen URLs. Current About source includes Apple EULA but not the public privacy policy.
+- Native About and Pro public links are being delivered on the application work branch. Verify on device after pulling that change; final protected purchase configuration still needs the actual privacy/terms URLs.
 - Reconcile App Privacy answers with the released service mode, retained AI results, location, device/subscription identifiers, purchases, usage and provider diagnostics; do not select blanket Data Not Collected.
 - Verify actual on-device consent and withdrawal, location disclosure, actual purchases/restoration, final privacy manifest/archive and accessible review services.
 - Complete App Store Connect privacy/support URLs, EULA reference, subscription details and, if applicable, EU DSA trader information.
