@@ -17,11 +17,11 @@ Source baseline: KukinIvan/growlog, work/calendar-commercial-climate-arco-v1, a3
 Corrections: support correspondence and website hosting disclosures; named service recipients; conditional protected-purchase/App Attest data and retention disclosure; qualified data rights and withdrawal; renewal/payment terms; EULA relationship and mandatory consumer remedies. Existing technical descriptions and allowances retained. No application or server behavior changed.
 
 Unresolved before declaring release-ready:
-- Owner confirmed individual Ivan Kukin, Thailand; Apple enrollment planned using Thai driving licence. Storefronts are undecided. Determine applicable law, processing-specific legal bases, required public business/contact details and any representative obligations. No tax-residence or banking conclusion follows from the identity document.
+- Owner confirmed individual Ivan Kukin, Thailand; Apple enrollment planned using Thai driving licence. Owner requests broad distribution including Europe, Canada and Australia (2026-10-13); country-specific review remains open. Determine applicable law, processing-specific legal bases, required public business/contact details and any representative obligations. No tax-residence or banking conclusion follows from the identity document.
 - Establish and document lawful retention/erasure criteria and actual implementation for inactive usage, linked coordinates, registration/revocation records, correspondence and provider logs/backups. The current lack of automatic expiry is disclosed; disclosure alone does not make indefinite retention lawful.
 - Confirm provider agreements, transfer safeguards and actual locations/settings. A provider privacy-policy link alone is not proof of processor terms or lawful international transfers.
-- Confirm support mailbox operation and a workable verified access/erasure-request procedure. Do not request secret access tokens by email.
-- Native About and Pro public links are being delivered on the application work branch. Verify on device after pulling that change; final protected purchase configuration still needs the actual privacy/terms URLs.
+- Owner confirmed support mailbox sending/receiving on 2026-10-13; establish a workable verified access/erasure-request procedure. Do not request secret access tokens by email.
+- Native About and Pro public links were accepted on device by the owner on 2026-10-12; final protected purchase configuration still needs the actual privacy/terms URLs.
 - Reconcile App Privacy answers with the released service mode, retained AI results, location, device/subscription identifiers, purchases, usage and provider diagnostics; do not select blanket Data Not Collected.
 - Verify actual on-device consent and withdrawal, location disclosure, actual purchases/restoration, final privacy manifest/archive and accessible review services.
 - Complete App Store Connect privacy/support URLs, EULA reference, subscription details and, if applicable, EU DSA trader information.
@@ -51,3 +51,15 @@ RU/EN public privacy recovery wording now explicitly scopes the 15-minute period
 
 Next release work: define the exact intended production service configuration and reconcile its data flows/retention before activation and final App Privacy answers. Confirm justified retention and an executable erasure procedure for user-linked usage/coordinates, inactive security/access records and support correspondence. Do not add arbitrary deletion deadlines or silently switch Release to Preview. Separate production deployment approval still applies.
 
+
+## 2026-10-13 — Owner-confirmed public contacts and preparation decisions
+
+Owner explicitly supplied and authorized publication of:
+- Ivan Kukin (individual, Thailand).
+- Save House Resort, House 33; 9/31 Moo 1, Mae Nam; Ko Samui, Surat Thani 84330; Thailand.
+- Phone: +66 94 831 2829 (international form; tel:+66948312829).
+- Email: growlog.app.support@gmail.com. Owner confirms sending and receiving work.
+
+Owner requests broad distribution including all Europe, Canada and Australia, superseding the proposed US/Thailand-only launch. This is the requested scope, not completed territory-specific legal clearance or configured storefront availability. Assess EU/EEA, UK and other European jurisdictions separately where needed. Owner delegates retention choices and safe cleanup implementation. Budget is zero incremental Cloudflare/GitHub spend; do not enable paid billing or claim free capacity for hundreds of subscribers without workload and account-limit evidence.
+
+Public contacts are authorized, not verified by Apple. App Store Connect trader and review fields must still be entered and verified after enrollment. The contact update does not activate subscriptions, change retention behavior, establish erasure tooling or complete international privacy/consumer-law review.
